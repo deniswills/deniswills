@@ -1,5 +1,7 @@
 # Denis
 
+![Balana_da_Justia_e_Tecnologia_Moderna](https://github.com/user-attachments/assets/5b54a969-82c4-4b5a-b92c-6ede5087949f)
+
 ## ⚖️A humble tech lawyer...
 
 Saudações, colegas! Sou um profissional do direito consternado com a morosidade com que a tecnologia tem avançado neste campo. Processos que não acabam, decisões que não são tomadas, pesquisas demoradas, reuniões desnecessárias, comunicação ineficiente, bases de dados e de conhecimento desorganizadas ou inacessíveis foi o que me trouxe para estas bandas. Entusiasmado com a capacidade das ferramentas tecnológicas de resolver com eficiência todos estes problemas, decidi me graduar em Gestão de Tecnologia da Informação, como um primeiro passo para contribuir nesta jornada. Atualmente busco desenvolver habilidades técnicas que possam me auxiliar neste desiderato.
